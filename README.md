@@ -1,5 +1,3 @@
-<table><tr valign="top"><td width="33%">
-
 # 👋 Hi, I am Dmitry
 
 I’m a frontend developer and graphic designer.
@@ -12,8 +10,6 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 
 [![glacies][Telegram-badge]][Telegram-url]  
 [![glacies][LinkedIn-badge]][LinkedIn-url]
-
-</td><td>
 
 ## My skills
 
@@ -46,8 +42,6 @@ While taking a course on front-end development in Hexlet, I've done four trainin
 [`Hexlet Chat`](https://github.com/faciledictu/frontend-project-12)
  
 For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279)
-</td></tr></table>
-
 
 [JS-badge]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript
 [JS-url]: https://www.w3schools.com/js/
