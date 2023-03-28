@@ -6,11 +6,6 @@ I have over ten years of experience in graphic design. While working as a design
 
 _Why not do something you really enjoy_, I thought once, and now I'm on my way from graphic design to frontend development.
 
-## Contacts
-
-[![glacies][Telegram-badge]][Telegram-url]  
-[![glacies][LinkedIn-badge]][LinkedIn-url]
-
 ## My skills
 
 ###### Languages, frameworks and libraries
@@ -36,12 +31,17 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 
 While taking a course on front-end development in Hexlet, I've done four training projects.
   
-[`Brain Games`](https://github.com/faciledictu/frontend-project-lvl1)  
-[`Gendiff`](https://github.com/faciledictu/frontend-project-lvl2)  
-[`RSS Aggregator`](https://github.com/faciledictu/frontend-project-11)  
+[`Brain Games`](https://github.com/faciledictu/frontend-project-lvl1)
+[`Gendiff`](https://github.com/faciledictu/frontend-project-lvl2)
+[`RSS Aggregator`](https://github.com/faciledictu/frontend-project-11)
 [`Hexlet Chat`](https://github.com/faciledictu/frontend-project-12)
  
 For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279)
+
+## Contacts
+
+[![glacies][Telegram-badge]][Telegram-url]
+[![glacies][LinkedIn-badge]][LinkedIn-url]
 
 [JS-badge]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript
 [JS-url]: https://www.w3schools.com/js/
