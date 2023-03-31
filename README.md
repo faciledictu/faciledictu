@@ -13,9 +13,11 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 [![JS][JS-badge]][JS-url]
 [![React][React-badge]][React-url]
 [![Redux][Redux-badge]][Redux-url]
-[![HTML][HTML-badge]][HTML-url]
-[![CSS][CSS-badge]][CSS-url]
+[![HTML5][HTML-badge]][HTML-url]
+[![CSS3][CSS-badge]][CSS-url]
 [![Bootstrap][Bootstrap-badge]][Bootstrap-url]
+[![Axios][Axios-badge]][Axios-url]
+[![Socket.IO][Socket.IO-badge]][Socket.IO-url]
 
 ###### Tools
 
@@ -31,16 +33,16 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 
 While taking a course on front-end development in Hexlet, I've done four training projects.
   
-[`Brain Games`](https://github.com/faciledictu/frontend-project-lvl1)
-[`Gendiff`](https://github.com/faciledictu/frontend-project-lvl2)
-[`RSS Aggregator`](https://github.com/faciledictu/frontend-project-11)
-[`Hexlet Chat`](https://github.com/faciledictu/frontend-project-12)
- 
-For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279)
+- [Brain Games](https://github.com/faciledictu/frontend-project-lvl1) – a set of simple console math games
+- [Gendiff](https://github.com/faciledictu/frontend-project-lvl2) – CLI utilite for comparing JSON and YAML configuration files
+- [RSS Aggregator](https://github.com/faciledictu/frontend-project-11) – simple service to reading RSS feeds
+- [Hexlet Chat](https://github.com/faciledictu/frontend-project-12) – web-based group chat application
+
+For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279).
 
 ## Contacts
 
-[![glacies][Telegram-badge]][Telegram-url]
+[![glacies][Telegram-badge]][Telegram-url]  
 [![glacies][LinkedIn-badge]][LinkedIn-url]
 
 [JS-badge]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript
@@ -60,6 +62,12 @@ For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279
 
 [Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap
 [Bootstrap-url]: https://getbootstrap.com
+
+[Socket.IO-badge]: https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=Socket.IO
+[Socket.IO-url]: https://socket.io
+
+[Axios-badge]: https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=i18next
+[Axios-url]: https://axios-http.com
 
 [VSCode-badge]: https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualStudioCode&logoColor=007ACC
 [VSCode-url]: https://code.visualstudio.com
