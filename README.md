@@ -34,7 +34,7 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 While taking a course on front-end development in Hexlet, I've done four training projects.
   
 - [Brain Games](https://github.com/faciledictu/frontend-project-lvl1) – a set of simple console math games
-- [Gendiff](https://github.com/faciledictu/frontend-project-lvl2) – CLI utilite for comparing JSON and YAML configuration files
+- [Gendiff](https://github.com/faciledictu/frontend-project-lvl2) – CLI utility for comparing JSON and YAML configuration files
 - [RSS Aggregator](https://github.com/faciledictu/frontend-project-11) – simple service to reading RSS feeds
 - [Hexlet Chat](https://github.com/faciledictu/frontend-project-12) – web-based group chat application
 
