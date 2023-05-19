@@ -11,6 +11,7 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 ###### Languages, frameworks and libraries
 
 [![JS][JS-badge]][JS-url]
+[![TS][TS-badge]][TS-url]
 [![React][React-badge]][React-url]
 [![Redux][Redux-badge]][Redux-url]
 [![HTML5][HTML-badge]][HTML-url]
@@ -45,8 +46,12 @@ For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279
 [![glacies][Telegram-badge]][Telegram-url]  
 [![glacies][LinkedIn-badge]][LinkedIn-url]
 
+
 [JS-badge]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript
 [JS-url]: https://www.w3schools.com/js/
+
+[TS-badge]: https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript
+[TS-url]: [https://www.w3schools.com/js/](https://www.typescriptlang.org)
 
 [React-badge]: https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react
 [React-url]: https://react.dev
