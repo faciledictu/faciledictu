@@ -41,6 +41,10 @@ While taking a course on front-end development in Hexlet, I've done four trainin
 
 For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279).
 
+## 👨‍💻 Currently
+
+A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
+
 ## Contacts
 
 [![glacies][Telegram-badge]][Telegram-url]  
