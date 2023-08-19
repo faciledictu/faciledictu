@@ -75,7 +75,7 @@ A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
 [CSS-url]: https://www.w3schools.com/css
 
 [SCSS-badge]: https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass
-[SCSS-url]: (https://sass-lang.com
+[SCSS-url]: https://sass-lang.com
 
 [Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap
 [Bootstrap-url]: https://getbootstrap.com
