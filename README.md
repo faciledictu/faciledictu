@@ -13,9 +13,11 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 [![JS][JS-badge]][JS-url]
 [![TS][TS-badge]][TS-url]
 [![React][React-badge]][React-url]
+[![React Router][ReactRouter-badge]][ReactRouter-url]
 [![Redux][Redux-badge]][Redux-url]
 [![HTML5][HTML-badge]][HTML-url]
 [![CSS3][CSS-badge]][CSS-url]
+[![SCSS][SCSS-badge]][SCSS-url]
 [![Bootstrap][Bootstrap-badge]][Bootstrap-url]
 [![Axios][Axios-badge]][Axios-url]
 [![Socket.IO][Socket.IO-badge]][Socket.IO-url]
@@ -52,22 +54,28 @@ A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
 
 
 [JS-badge]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript
-[JS-url]: https://www.w3schools.com/js/
+[JS-url]: https://www.w3schools.com/js
 
 [TS-badge]: https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript
-[TS-url]: [https://www.w3schools.com/js/](https://www.typescriptlang.org)
+[TS-url]: https://www.typescriptlang.org
 
 [React-badge]: https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react
 [React-url]: https://react.dev
+
+[ReactRouter-badge]: https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router
+[ReactRouter-url]: https://reactrouter.com
 
 [Redux-badge]: https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764abc
 [Redux-url]: https://redux.js.org
 
 [HTML-badge]: https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5
-[HTML-url]: https://www.w3schools.com/html/
+[HTML-url]: https://www.w3schools.com/html
 
 [CSS-badge]: https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6
-[CSS-url]: https://www.w3schools.com/css/
+[CSS-url]: https://www.w3schools.com/css
+
+[SCSS-badge]: https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass
+[SCSS-url]: (https://sass-lang.com
 
 [Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap
 [Bootstrap-url]: https://getbootstrap.com
@@ -85,7 +93,7 @@ A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
 [Git-url]: https://git-scm.com
 
 [Figma-badge]: https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma
-[Figma-url]: https://www.figma.com/
+[Figma-url]: https://www.figma.com
 
 [Illustrator-badge]: https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=AdobeIllustrator
 [Illustrator-url]: https://www.adobe.com/products/illustrator.html
