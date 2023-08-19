@@ -9,7 +9,6 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 ## My skills
 
 ###### Languages, frameworks and libraries
-
 [![JS][JS-badge]][JS-url]
 [![TS][TS-badge]][TS-url]
 [![React][React-badge]][React-url]
@@ -43,72 +42,76 @@ While taking a course on front-end development in Hexlet, I've done four trainin
 
 For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279).
 
-## 👨‍💻 Currently
+### 👨‍💻 Currently
 
 A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
 
+### 📈 Some stats
+
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faciledictu&show_icons=true&theme=dark&border_color=333#gh-dark-mode-only)](https://github.com/faciledictu/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=faciledictu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/faciledictu/github-readme-stats#gh-light-mode-only)
+
 ## Contacts
+[![tg: glacies][Telegram-badge]][Telegram-url]
+[![LinkedIn: dmitryzhigulin][LinkedIn-badge]][LinkedIn-url]
 
-[![glacies][Telegram-badge]][Telegram-url]  
-[![glacies][LinkedIn-badge]][LinkedIn-url]
-
-
-[JS-badge]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript
+[JS-badge]: https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript
 [JS-url]: https://www.w3schools.com/js
 
-[TS-badge]: https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript
+[TS-badge]: https://img.shields.io/badge/TypeScript-222?style=for-the-badge&logo=typescript
 [TS-url]: https://www.typescriptlang.org
 
-[React-badge]: https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react
+[React-badge]: https://img.shields.io/badge/React-222?style=for-the-badge&logo=react
 [React-url]: https://react.dev
 
-[ReactRouter-badge]: https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router
+[ReactRouter-badge]: https://img.shields.io/badge/React_Router-222?style=for-the-badge&logo=react-router
 [ReactRouter-url]: https://reactrouter.com
 
-[Redux-badge]: https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764abc
+[Redux-badge]: https://img.shields.io/badge/Redux-222?style=for-the-badge&logo=redux&logoColor=764abc
 [Redux-url]: https://redux.js.org
 
-[HTML-badge]: https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5
+[HTML-badge]: https://img.shields.io/badge/HTML5-222?style=for-the-badge&logo=html5
 [HTML-url]: https://www.w3schools.com/html
 
-[CSS-badge]: https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6
+[CSS-badge]: https://img.shields.io/badge/CSS3-222?style=for-the-badge&logo=css3&logoColor=1572B6
 [CSS-url]: https://www.w3schools.com/css
 
-[SCSS-badge]: https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass
+[SCSS-badge]: https://img.shields.io/badge/SCSS-222?style=for-the-badge&logo=sass
 [SCSS-url]: https://sass-lang.com
 
-[Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap
+[Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-222?style=for-the-badge&logo=bootstrap
 [Bootstrap-url]: https://getbootstrap.com
 
-[Socket.IO-badge]: https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=Socket.IO
+[Socket.IO-badge]: https://img.shields.io/badge/Socket.IO-222?style=for-the-badge&logo=Socket.IO
 [Socket.IO-url]: https://socket.io
 
-[Axios-badge]: https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=i18next
+[Axios-badge]: https://img.shields.io/badge/Axios-222?style=for-the-badge&logo=i18next
 [Axios-url]: https://axios-http.com
 
-[VSCode-badge]: https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualStudioCode&logoColor=007ACC
+[VSCode-badge]: https://img.shields.io/badge/VSCode-222?style=flat-square&logo=visualStudioCode&logoColor=007ACC
 [VSCode-url]: https://code.visualstudio.com
 
-[Git-badge]: https://img.shields.io/badge/Git-000000?style=flat-square&logo=git
+[Git-badge]: https://img.shields.io/badge/Git-222?style=flat-square&logo=git
 [Git-url]: https://git-scm.com
 
-[Figma-badge]: https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma
+[Figma-badge]: https://img.shields.io/badge/Figma-222?style=flat-square&logo=Figma
 [Figma-url]: https://www.figma.com
 
-[Illustrator-badge]: https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=AdobeIllustrator
+[Illustrator-badge]: https://img.shields.io/badge/Illustrator-222?style=flat-square&logo=AdobeIllustrator
 [Illustrator-url]: https://www.adobe.com/products/illustrator.html
 
-[Photoshop-badge]: https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=AdobePhotoshop
+[Photoshop-badge]: https://img.shields.io/badge/Photoshop-222?style=flat-square&logo=AdobePhotoshop
 [Photoshop-url]: https://www.adobe.com/products/photoshop.html
 
-[InDesign-badge]: https://img.shields.io/badge/InDesign-000000?style=flat-square&logo=AdobeInDesign
+[InDesign-badge]: https://img.shields.io/badge/InDesign-222?style=flat-square&logo=AdobeInDesign
 [InDesign-url]: https://www.adobe.com/products/indesign.html
 
-[AfterEffects-badge]: https://img.shields.io/badge/AfterEffects-000000?style=flat-square&logo=AdobeAfterEffects
+[AfterEffects-badge]: https://img.shields.io/badge/AfterEffects-222?style=flat-square&logo=AdobeAfterEffects
 [AfterEffects-url]: https://www.adobe.com/products/aftereffects.html
 
 [Telegram-badge]: https://img.shields.io/badge/glacies-ffffff?style=flat-square&logo=Telegram
 [Telegram-url]: https://t.me/glacies
 
-[LinkedIn-badge]: https://img.shields.io/badge/Dmitry%20Zhigulin-ffffff?style=flat-square&logo=LinkedIn&logoColor=blue
+[LinkedIn-badge]: https://img.shields.io/badge/dmitryzhigulin-ffffff?style=flat-square&logo=LinkedIn&logoColor=blue
+
 [LinkedIn-url]: https://linkedin.com/in/dmitryzhigulin
