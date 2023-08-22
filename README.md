@@ -33,12 +33,11 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 
 ## My experience
 
-While taking a course on front-end development in Hexlet, I've done four training projects.
-  
-- [Brain Games](https://github.com/faciledictu/brain-games) – a set of simple console math games
+While taking a course on front-end development in Hexlet, I've done several training projects.
+
 - [Gendiff](https://github.com/faciledictu/gendiff) – CLI utility for comparing JSON and YAML configuration files
-- [RSS Aggregator](https://github.com/faciledictu/rss-aggregator) – simple service to reading RSS feeds
-- [Simple Chat](https://github.com/faciledictu/simple-chat) – web-based group chat application
+- [RSS Aggregator](https://github.com/faciledictu/rss-aggregator) – simple service to reading RSS feeds. Vanilla JS, Bootstrap
+- [Simple Chat](https://github.com/faciledictu/simple-chat) – web-based group chat application. React, Redux Toolkit, Bootstrap
 
 For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279).
 
