@@ -4,9 +4,9 @@ I’m a frontend developer and graphic designer.
 
 I have over ten years of experience in graphic design. While working as a designer, I always focused on structuring information and automating layout processes.
 
-_Why not do something you really enjoy_, I thought once, and now I'm on my way from graphic design to frontend development.
+_Why not do something you really enjoy_, Driven by the desire to align my work with my true passion, I transitioned from graphic design to frontend development.
 
-## My skills
+## 🧰 My toolbox
 
 ###### Languages, frameworks and libraries
 [![JS][JS-badge]][JS-url]
@@ -31,7 +31,7 @@ _Why not do something you really enjoy_, I thought once, and now I'm on my way f
 [![InDesign][InDesign-badge]][InDesign-url]
 [![AfterEffects][AfterEffects-badge]][AfterEffects-url]
 
-## My experience
+## 🚀 My experience
 
 While taking a course on front-end development in Hexlet, I've done several training projects.
 
