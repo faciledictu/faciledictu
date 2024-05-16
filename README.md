@@ -12,6 +12,7 @@ _Why not do something you really enjoy_, Driven by the desire to align my work w
 [![JS][JS-badge]][JS-url]
 [![TS][TS-badge]][TS-url]
 [![React][React-badge]][React-url]
+[![Next.js][Next.js-badge]][Next.js-url]
 [![React Router][ReactRouter-badge]][ReactRouter-url]
 [![Redux][Redux-badge]][Redux-url]
 [![HTML5][HTML-badge]][HTML-url]
@@ -31,20 +32,6 @@ _Why not do something you really enjoy_, Driven by the desire to align my work w
 [![InDesign][InDesign-badge]][InDesign-url]
 [![AfterEffects][AfterEffects-badge]][AfterEffects-url]
 
-## 🚀 My experience
-
-While taking a course on front-end development in Hexlet, I've done several training projects.
-
-- [Gendiff](https://github.com/faciledictu/gendiff) – CLI utility for comparing JSON and YAML configuration files
-- [RSS Aggregator](https://github.com/faciledictu/rss-aggregator) – simple service to reading RSS feeds. Vanilla JS, Bootstrap
-- [Simple Chat](https://github.com/faciledictu/simple-chat) – web-based group chat application. React, Redux Toolkit, Bootstrap
-
-For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/1279).
-
-### 👨‍💻 Currently
-
-A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
-
 ### 📈 Some stats
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faciledictu&show_icons=true&theme=dark&border_color=333#gh-dark-mode-only)](https://github.com/faciledictu/github-readme-stats#gh-dark-mode-only)
@@ -62,6 +49,9 @@ A passionate contributor at [RunIT](https://github.com/hexlet-rus/runit)
 
 [React-badge]: https://img.shields.io/badge/React-222?style=for-the-badge&logo=react
 [React-url]: https://react.dev
+
+[Next.js-badge]: https://img.shields.io/badge/Next.js-222?style=for-the-badge&logo=next.js
+[Next.js-url]: https://react.dev
 
 [ReactRouter-badge]: https://img.shields.io/badge/React_Router-222?style=for-the-badge&logo=react-router
 [ReactRouter-url]: https://reactrouter.com
